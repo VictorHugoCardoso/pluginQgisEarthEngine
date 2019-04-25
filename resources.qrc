@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/earthengine3" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
